@@ -11,6 +11,8 @@ a change after version control is enabled
 
 another change
 
+and another change
+
 ==== heading3 ====
 
 === heading4 ===
