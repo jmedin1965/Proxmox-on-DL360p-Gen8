@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-10-07T09:40:42+11:00
+
+====== a journal ======
+Created Friday 07 October 2022
+{{.\pasted_image.png}}
+{{.\pasted_image001.png}}
