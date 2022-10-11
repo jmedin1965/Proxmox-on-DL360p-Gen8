@@ -32,6 +32,10 @@ The idea is to install proxmox on a DL360p Gen8. The problems are;
 	* https://www.ebay.com.au/itm/132712657279
 	* $7.46
 
+===== Prep work =====
+
+stick lables on all the disk caddies so that when a disk fails, you know whick one it is. Found out the hard way that disk/by-id does not user the serial number but the WWI, which stands for World Wide Name.
+
 ===== Convert Controller to HBA =====
 
 ==== The boot disk to do the concersion ====
