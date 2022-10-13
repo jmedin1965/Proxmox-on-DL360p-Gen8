@@ -1,6 +1,8 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
+Wiki-Format: zim 0.4
 Creation-Date: 2022-10-07T09:39:15+11:00
+
+
 
 ====== Proxmox on DL360p Gen8 ======
 Created Friday 07 October 2022
@@ -134,7 +136,6 @@ So, about swap. I have read a lot about not having swap and that RAM is so cheap
 			* run "zpool status" and make all the raidz2 disks start with scsi-. the disk I user to boot from swapped to using sde3 which is bad. You get a warning when the server boots. It is easily repairable.
 				* ls -l [[/dev/disk/by-id/scsi-*]]
 				* find the one that matched the device and get the scsi- name instead.
-				* 
 
 
 
